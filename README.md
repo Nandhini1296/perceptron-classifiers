@@ -28,7 +28,22 @@ In the above format, label_a is either “truthful” or “deceptive”, label_
 
 ### Results for Vanilla Perceptron
 
+|  Attribute | Precision  | Recall  |  F1   |
+|------------|------------|---------|-------|
+| deceptive  |   0.79     |  0.82   | 0.81  |
+| truthful   |   0.82     |  0.78   | 0.80  |
+| negative   |   0.91     |  0.91   | 0.91  |
+| positive   |   0.91     |  0.91   | 0.91  |
+
 Mean F1: 0.8546
 
 ### Results for Average Perceptron
+
+|  Attribute | Precision  | Recall  |  F1   |
+|------------|------------|---------|-------|
+| deceptive  |   0.80     |  0.79   | 0.79  |
+| truthful   |   0.79     |  0.81   | 0.80  |
+| negative   |   0.91     |  0.90   | 0.91  |
+| positive   |   0.90     |  0.91   | 0.91  |
+
 Mean F1: 0.8516
