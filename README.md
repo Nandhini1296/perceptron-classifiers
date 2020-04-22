@@ -8,7 +8,7 @@ The training and development contains the following files:
   - A top-level directory with two sub-directories, one for positive reviews and another for negative reviews.
   - Each of the subdirectories contains two sub-directories, one with truthful reviews and one with deceptive reviews.
   - Each of these subdirectories contains four subdirectories, called “folds”.
-  - Each of the folds contains 80 text files with English text (one review per file).
+  - Each of the folds contains 80 text files with English text - one review per file.
 
 ## Programs
  
